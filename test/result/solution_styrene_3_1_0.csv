@@ -1,0 +1,10 @@
+MNX_ID,flux,order,type
+MNXR7121,1.0,0,rxn
+MNXR7145,-1.0,1,rxn
+MNXR23023,-1.0,2,rule
+,,,
+order,,metabolite,
+0,,MNXM210,
+1,,MNXM97,
+2,,MNXM438,
+3,,MNXM2434,

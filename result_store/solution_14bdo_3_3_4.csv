@@ -1,0 +1,10 @@
+MNX_ID,flux,order,type
+MNXR92214,-1.0,0,rule
+MNXR938,1.0,1,rule
+MNXR6861,1.0,2,rule
+,,,
+order,,metabolite,
+0,,MNXM92,
+1,,MNXM514,
+2,,Hypothetical_Metabolite_0,
+3,,ChEBI_41189,

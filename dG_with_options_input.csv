@@ -1,0 +1,5 @@
+Name,stoich,cid,inchi,options
+L-alanine,-1,C00041,"InChI=1S/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)/t2-/m0/s1",1
+2-Oxoglutarate,-1,C00026,NA,1
+Pyruvate,1,C00022,NA,1
+L-glutamate,1,C00025,NA,1
